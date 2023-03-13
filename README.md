@@ -23,3 +23,10 @@
 1. Download the [gcode](https://github.com/MengLinMaker/Trolley-Token/blob/master/Trolley%20Token%20Removable%20Lite.gcode) in this repo.
    - Or download the [3mf file](https://github.com/MengLinMaker/Trolley-Token/blob/master/Trolley%20Token%20Removable%20Lite.3mf) and generate the gcode.
 2. Print the model!
+
+<div>&nbsp</div>
+
+## Attribution
+
+* This project is not possible without [OnShape](https://cad.onshape.com).
+* Explore the original files [here](https://cad.onshape.com/documents/a2fa620349759d4437db42a8/w/424f57faf8c0a0b340febc74/e/7314f07f965fed9dda8f969e?renderMode=0&uiState=640eb2301482af4bf1270ea6).
