@@ -29,4 +29,4 @@
 ## Attribution
 
 * This project is not possible without [OnShape](https://cad.onshape.com).
-* Explore the original files [here](https://cad.onshape.com/documents/a2fa620349759d4437db42a8/w/424f57faf8c0a0b340febc74/e/7314f07f965fed9dda8f969e?renderMode=0&uiState=640eb2301482af4bf1270ea6).
+* Explore the original CAD files [here](https://cad.onshape.com/documents/a2fa620349759d4437db42a8/w/424f57faf8c0a0b340febc74/e/7314f07f965fed9dda8f969e?renderMode=0&uiState=640eb2301482af4bf1270ea6).
